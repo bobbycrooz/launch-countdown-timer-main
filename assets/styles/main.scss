@@ -101,7 +101,7 @@ body{
         margin-top: -150px;
         text-align: center;
         &-box{
-            width: 120px;
+            width: 20%;
             @include breakpoint(600px){
                 width: 20%;
             }

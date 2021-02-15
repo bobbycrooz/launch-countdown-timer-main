@@ -65,7 +65,7 @@ body {
   text-align: center;
 }
 .container__cd-box {
-  width: 120px;
+  width: 20%;
 }
 @media screen and (max-width: 600px) {
   .container__cd-box {
